@@ -1,0 +1,12 @@
+[submodule "EksamensProjekt2024"]
+	path = EksamensProjekt2024
+	url = https://github.com/LasseHindsberg/EksamensProjekt2024.git
+[submodule "ForecastLibExam"]
+	path = ForecastLibExam
+	url = https://github.com/LasseHindsberg/ForecastLibExam.git
+[submodule "WebAppUITesting"]
+	path = WebAppUITesting
+	url = https://github.com/LasseHindsberg/WebAppUITesting.git
+[submodule "Raspberry-Pi-THSensor"]
+	path = Raspberry-Pi-THSensor
+	url = https://github.com/MohammadGado/Raspberry-Pi-THSensor.py.git
